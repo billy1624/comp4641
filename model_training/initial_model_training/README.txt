@@ -1,0 +1,1 @@
+initial method to predict sentiments

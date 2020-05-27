@@ -1,0 +1,1 @@
+this is used to find the relationships of different days' user sentiments and coronavirus patient count
